@@ -71,7 +71,6 @@ This function expected to get 2 variables as attributes, the first one is the na
 
 
 
-
 /****************************************************************************************************************************
 																														    *
 This function get the table name as a attribute and return the shape of you date: number of rows and columns(variables)     *
